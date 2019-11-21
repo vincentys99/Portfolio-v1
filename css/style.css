@@ -1269,3 +1269,9 @@ footer .credits a {
     bottom: 15px;
   }
 }
+
+
+/*--/ Google Font - PT Sans /--*/
+.lead {
+    font-family: 'PT Sans', sans-serif;
+}
